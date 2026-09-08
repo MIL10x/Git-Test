@@ -9,5 +9,5 @@ function addNumbers(x, y) {
 
 addNumbers(a, b);
 
-console.log("branch B");
 console.log("branch a");
+console.log("branch d");
