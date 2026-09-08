@@ -8,4 +8,7 @@ function addNumbers(x, y) {
 }       
 
 addNumbers(a, b);
-console.log("Learning git and GitHub is fun!");
+
+console.log("branch B");
+console.log("branch a");
+console.log("commit 9 ");
