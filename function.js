@@ -11,3 +11,5 @@ addNumbers(a, b);
 
 console.log("branch a");
 console.log("branch d");
+console.log("want to test the stash feature");
+console.log("I add second line to test stash feature");
