@@ -8,3 +8,5 @@ function addNumbers(x, y) {
 }       
 
 addNumbers(a, b);
+
+console.log("branch a");
